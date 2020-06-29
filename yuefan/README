@@ -1,8 +1,0 @@
-Implement follow-through of the official tutorial at https://www.djangoproject.com/ </br>
-
-#### [`Writing your first Django app`](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
-
-The tutorial walks through creating a basic poll application. It’s got two parts:
-
-1. A public site that lets people view polls and vote in them.
-2. An administrative interface that lets you add, change and delete polls.
